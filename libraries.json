@@ -7,5 +7,6 @@
     "numpy": "numpy",
     "scipy": "scipy",
     "keras": "keras",
-    "alibi": "alibi"
+    "alibi": "alibi",
+    "warnings": "warnings"
 }
