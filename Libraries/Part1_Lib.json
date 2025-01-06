@@ -3,8 +3,4 @@
     "scikit-learn": "sklearn",
     "matplotlib": "matplotlib",
     "seaborn": "seaborn",
-    "pandas": "pandas",
-    "numpy": "numpy",
-    "scipy": "scipy",
-    "alibi": "alibi"
-}
+ 

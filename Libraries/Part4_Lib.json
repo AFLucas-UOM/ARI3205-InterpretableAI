@@ -1,0 +1,7 @@
+{
+    "tensorflow": "tensorflow",
+    "tensorflow_datasets": "tensorflow_datasets",
+    "tf_explain": "tf_explain",
+    "numpy": "numpy",
+    "matplotlib": "matplotlib"
+}
