@@ -6,7 +6,5 @@
     "pandas": "pandas",
     "numpy": "numpy",
     "scipy": "scipy",
-    "keras": "keras",
-    "alibi": "alibi",
-    "warnings": "warnings"
+    "alibi": "alibi"
 }
