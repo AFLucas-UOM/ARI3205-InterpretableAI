@@ -48,8 +48,8 @@ The repository is organized as follows:
   - **`Part4_Lib.json`**: JSON file with library dependencies for Part 4.
 
 - **`Models/`**
-  - **`AFL_1T.h5`**: Trained model file for the first task.
-  - **`AFL_15T.h5`**: Trained model file for the fifteenth task.
+  - **`AFL_1T.h5`**: Trained model file for `Part 4 with 1 Epoch`.
+  - **`AFL_15T.h5`**: Trained model file for `Part 4 with 15 Epochs`.
 
 - **Root Files**
   - **`.gitignore`**: File for Git exclusions.
