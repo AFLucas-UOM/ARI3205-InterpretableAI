@@ -4,3 +4,5 @@
     "tf_explain": "tf_explain",
     "numpy": "numpy",
     "matplotlib": "matplotlib",
+    "alibi": "alibi"
+}
