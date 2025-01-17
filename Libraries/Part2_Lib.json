@@ -1,12 +1,8 @@
 {
     "tensorflow": "tensorflow",
-    "scikit-learn": "sklearn",
     "matplotlib": "matplotlib",
-    "seaborn": "seaborn",
     "pandas": "pandas",
     "numpy": "numpy",
-    "scipy": "scipy",
-    "alibi": "alibi",
     "lime": "lime",
     "shap": "shap",
     "anchor": "anchor"
