@@ -5,6 +5,5 @@
     "seaborn": "seaborn",
     "pandas": "pandas",
     "numpy": "numpy",
-    "statsmodels": "statsmodels",
-    "alibi[tensorflow]": "alibi[tensorflow]"
+    "statsmodels": "statsmodels"
 }
